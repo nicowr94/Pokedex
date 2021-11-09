@@ -1,5 +1,5 @@
 # Pokedex
-GitPage: https://nicowr94.github.io/Pokedex/
+GitHub Pages: https://nicowr94.github.io/Pokedex/
 
 ## Ejercicio práctico front-end Pokédex
 Tu misión es implementar una interfaz web responsive base de un Pokédex.
